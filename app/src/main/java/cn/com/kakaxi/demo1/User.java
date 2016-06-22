@@ -10,8 +10,8 @@ package cn.com.kakaxi.demo1;
 public class User {
 
     public String name;
-    public String age;
-
+    public Int age;
+    public String birthday;
 
 
 }
